@@ -1,5 +1,5 @@
 
-var a,b;
+let a,b;
 
 a = Number(prompt("Enter first number: "));
 b = Number(prompt("Enter second number: "));
