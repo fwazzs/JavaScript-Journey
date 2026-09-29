@@ -1,0 +1,17 @@
+#Counter{
+    display: block;
+    font-size: 5em;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: blue;
+}
+
+div {
+    text-align: center;
+}
+
+.Button {
+    padding: 10px;
+    border-radius: 5px;
+}
