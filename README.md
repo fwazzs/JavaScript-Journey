@@ -12,3 +12,11 @@
 - Math Function
 - Slot
 - Username
+
+3. Third Day Log
+- Ternary
+- Switch
+
+4. Fourth Day Log
+- Logic
+- Chaining
